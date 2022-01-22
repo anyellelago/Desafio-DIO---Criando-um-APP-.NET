@@ -1,0 +1,15 @@
+C:\work\Dio.Series\bin\Debug\net6.0\DIO.Series.exe
+C:\work\Dio.Series\bin\Debug\net6.0\DIO.Series.deps.json
+C:\work\Dio.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+C:\work\Dio.Series\bin\Debug\net6.0\DIO.Series.dll
+C:\work\Dio.Series\bin\Debug\net6.0\ref\DIO.Series.dll
+C:\work\Dio.Series\bin\Debug\net6.0\DIO.Series.pdb
+C:\work\Dio.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+C:\work\Dio.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\Dio.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+C:\work\Dio.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+C:\work\Dio.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\work\Dio.Series\obj\Debug\net6.0\DIO.Series.dll
+C:\work\Dio.Series\obj\Debug\net6.0\ref\DIO.Series.dll
+C:\work\Dio.Series\obj\Debug\net6.0\DIO.Series.pdb
+C:\work\Dio.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
